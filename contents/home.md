@@ -1,16 +1,18 @@
 
 
-[![wenzhizhao](https://img.shields.io/badge/wenzhizhao-github-blue?logo=github)](https://github.com/WenzhiZhao-geo)
+[![wenzhizhao](https://img.shields.io/badge/youyuanyy-github-blue?logo=github)](https://github.com/youyuanyy)
 
-He is currently pursuing a PhD at the Asian School of the Environment, Nanyang Technological University, Singapore. Besides, he is a current member of the Computational Geophysics Lab at Nanyang Technological University (NTU) and the Earth Observatory of Singapore (EOS).
+I'm You Yuan, a Malaysian agronomist and PhD student at the Asian School of the Environment, Nanyang Technological University, currently based between Singapore and Malaysia.
 
 #### Email
-wenzhi001@e.ntu.edu.sg
+youyuan001@e.ntu.edu.sg
 
 #### Education
-M.E., Geotechnical Engineering, Tongji University, 2021-2024.
+PhD, Earth and Environmental Science, Nanyang Technological University, Singapore, 2025-2029.
 
-B.E., City Underground Space Engineering, Southwest Jiaotong University, 2017-2021.
+M.Sc., Environmental Science & Agricultural Science, Kyoto University, 2021-2023.
+
+B.Sc., Major in Agronomy; minor in Life Science, National Taiwan University, Taiwan, 2015-2019.
 
 #### Research Interests
 Earthquake mechanics, Fault friction, Induced seismicity.
