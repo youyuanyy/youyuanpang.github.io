@@ -21,3 +21,5 @@ youyuan001@e.ntu.edu.sg
 
 #### Linkedin
 https://www.linkedin.com/in/you-yuan-pang/
+
+#### My CV (https://entuedu-my.sharepoint.com/:b:/g/personal/youyuan001_e_ntu_edu_sg/IQAZE9HlUOZ_RKrku0Lnol5sARPR-WNTtE8iGLSTM_J4Eb4?e=2HISrS)
