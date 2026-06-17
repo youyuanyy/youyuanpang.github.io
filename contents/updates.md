@@ -1,6 +1,4 @@
-### Recent updates
 
-<div class="update-card">
 
 #### RSPO Conference 2025
 

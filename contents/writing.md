@@ -1,4 +1,4 @@
-- I write short science communication pieces on agriculture, sustainability, environmental change, and smallholder farming systems. These articles are mainly written for students, growers, and general readers who are interested in understanding agricultural issues in Southeast Asia.
+I write short science communication pieces on agriculture, sustainability, environmental change, and smallholder farming systems. These articles are mainly written for students, growers, and general readers who are interested in understanding agricultural issues in Southeast Asia.
 
 ### Selected science communication articles
 
