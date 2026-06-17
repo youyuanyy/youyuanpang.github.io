@@ -2,7 +2,7 @@
 
 #### RSPO Conference 2025
 
-![RSPO Conference](static/assets/img/rspo-conference-2025.jpg)
+![RSPO Conference](static/assets/img/rspo-conference-2025.jpeg)
 
 I attended the 2025 RSPO RT conference to learn more about current discussions on sustainable palm oil, certification, traceability, and the role of smallholders in the palm oil supply chain.
 
@@ -12,7 +12,7 @@ I attended the 2025 RSPO RT conference to learn more about current discussions o
 
 #### Field trip and smallholder engagement in Medan, Indonesia
 
-![Field trip](static/assets/img/field-trip-medan-2026.jpg)
+![Field trip](static/assets/img/field-trip-medan-2026.jpeg)
 
 My recent field trip to Medan made me rethink how smallholders relate to their land, their crops, and the surrounding environment. It also reminded me that researchers need to communicate with farmers in a way that is respectful, open, and grounded in their lived realities.
 
@@ -24,7 +24,7 @@ Oil palm landscapes hold many possibilities. Smallholders have their own ideas, 
 
 #### Smallholder systems and land-use research
 
-![Fieldwork](static/assets/img/wildasia-fieldwork-2026.jpg)
+![Fieldwork](static/assets/img/wildasia-fieldwork-2026.jpeg)
 
 My current PhD work is conducted in collaboration with Wild Asia, a Malaysia-based social enterprise that works closely with smallholders, producer groups, and supply-chain partners to support more sustainable and responsible palm oil production.
 
