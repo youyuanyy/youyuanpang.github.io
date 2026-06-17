@@ -109,4 +109,15 @@ section .main-body{
     }
 }
 
+.main-body img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px;
+    margin: 1rem 0 1.5rem 0;
+}
+
+.update-card {
+    margin-bottom: 2.5rem;
+}
+
 
