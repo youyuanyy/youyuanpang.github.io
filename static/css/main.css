@@ -2,11 +2,11 @@
 
 
 :root{
-    --h-title-color:#3948d2;
+    --h-title-color:#2f5d50;
 }
 
 .header {
-    border-bottom: solid 2px var(--bs-blue);
+    border-bottom: solid 2px var(--h-title-color);
     z-index: 10000;
 }
 
@@ -16,10 +16,10 @@
 
 .top-section {
     position: relative;
-    padding: 10rem 0;
+    padding: 8rem 0;
     background-position: center;
     background-size: cover;
-    height: 25rem;
+    height: 30rem;
 }
 
 .top-section h2 {
@@ -38,7 +38,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 0.35);
 }
 
 section header h2{
@@ -49,9 +49,9 @@ section header h2{
 }
 
 section .main-body{
-    font-size: 1.3rem;
-    font-weight: 200;
-    line-height: 2.4rem;
+    font-size: 1.1rem;
+    font-weight: 300;
+    line-height: 2rem;
 }
 
 
@@ -60,7 +60,7 @@ section .main-body{
 }
 
 .bg-gradient-primary-to-secondary-gray {
-    background: linear-gradient(45deg, #f0f0f0, #f1f1f1) !important;
+    background: linear-gradient(45deg, #f6f5f0, #f3f4ee) !important;
 }
 
 
@@ -99,7 +99,7 @@ section .main-body{
 }
 
 #avatar img {
-    height: max(130px,min(200px,calc(100vw/6)));
+    height: max(160px,min(250px,calc(100vw/6)));
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
 }
 
