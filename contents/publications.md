@@ -6,6 +6,6 @@
 
 #### Theses
 
-- <strong>Pang, Y.Y.</strong> (2023). Effects of Foliar Application Silicon on the Growth and Physiological Responses to Abiotic Stress of Durian (Durio zibethinus). Kyoto University.[[Master's Thesis]]
+- <strong>Pang, Y.Y.</strong> (2023). Effects of Foliar Application Silicon on the Growth and Physiological Responses to Abiotic Stress of Durian (Durio zibethinus). Kyoto University.[Master's Thesis]
 
-- <strong>Pang, Y.Y.</strong> (2019). Piriformospora indica Inoculation on Number of Trichomes in Rice Leaf Tissues. National Taiwan University. [[Bachelor's Thesis]]
+- <strong>Pang, Y.Y.</strong> (2019). Piriformospora indica Inoculation on Number of Trichomes in Rice Leaf Tissues. National Taiwan University. [Bachelor's Thesis]
